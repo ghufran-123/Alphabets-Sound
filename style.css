@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Acme', sans-serif;
+    color: #13b88f;
+    
+}
+/* body
+{
+    background-color: #c02251;
+} */
+.container-fluid
+{
+    padding: 1% 7%;
+}
+.alphabetItem
+{
+    font-size: 15rem;
+    user-select: none;
+}
+.card
+{
+    border: 0 solid;
+    background-color: #b9666d;
+    margin-bottom: 9%;
+    
+}
